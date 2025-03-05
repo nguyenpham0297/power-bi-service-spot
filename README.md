@@ -5,13 +5,14 @@ ServiceSpot, an IT company, needed a solution to analyze their call center data 
 
 ## Additional Documentation
 For detailed project insights, execution steps, and findings, refer to:
-- **Power BI Project Explanation.pdf** – Project objectives, methodology, and evaluation criteria.
-- **ServiceSpot_Report_Finding.pdf** – Summary of key insights derived from the reports.
+- [Power BI Project Explanation.pdf](https://github.com/nguyenpham0297/power-bi-service-spot/blob/main/1.%20Instruction%20%2B%20Data%20%2B%20Dictionnary/Power%20BI%20Project%20Project%20Explanation.pdf) – Project objectives, methodology, and evaluation criteria.
+- [call_centre_data_final.pbix](https://github.com/nguyenpham0297/power-bi-service-spot/tree/main/2.%20Solution) - reports and dashboards file
+- [ServiceSpot_Report_Finding.pdf](https://github.com/nguyenpham0297/power-bi-service-spot/blob/main/2.%20Solution/ServiceSpot_Report_Finding.pdf) – Summary of key insights derived from the reports.
 
 ## Project Structure
 The project consists of two main folders:
 1. **Instruction + Raw Data + Data Dictionary** – Contains documentation, raw data files, and the data dictionary.
-2. **Solution** – Includes the Power BI solution file (`call_centre_data_final.pbix`).
+2. **Solution** – Includes the Power BI solution file [`call_centre_data_final.pbix`](https://github.com/nguyenpham0297/power-bi-service-spot/blob/main/2.%20Solution/call_centre_data_final.pbix).
 
 ## Data Sources & Model
 The dataset consists of multiple files capturing call center operations, employee details, revenue, and performance metrics. **Power Query** was used for data cleaning and transformation, while a **star schema** was implemented to optimize reporting.
