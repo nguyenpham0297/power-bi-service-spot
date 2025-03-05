@@ -68,6 +68,3 @@ To explore the reports:
 - **Mohammed Danish Mustafa**
 - **Trung Nguyen**
 
----
-This Power BI solution delivers a **comprehensive and dynamic** analysis of ServiceSpot's call center performance, helping them **optimize operations and improve customer satisfaction**.
-
